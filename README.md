@@ -3,9 +3,11 @@
 
 ## Overview
 This project analyzes movie datasets to explore trends, correlations, and insights related to box office performance. Using publicly available box office data, the analysis includes visualizations, statistical summaries, and predictive modeling to answer questions such as:
-- What factors influence a movie's financial success?
-- How do genres, release dates, budgets, and ratings correlate with box office revenue?
-- Can we predict a movie's success based on historical data?
+- Which genres are most popular and how have they evolved over time?
+- What is the relationship between production budgets and revenue
+- How can the company determine the optimal budget for producing films in different genres to ensure a high ROI (Return on Investment)?
+- What are the seasonal trends in the box office
+
 
 ## Dataset
 The analysis uses the following datasets (modify as needed):
